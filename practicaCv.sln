@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "practicaCv", "practicaCv\practicaCv.vcxproj", "{5BEE95C6-0553-4DC7-8C78-35CC1BF9B53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BEE95C6-0553-4DC7-8C78-35CC1BF9B53B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5BEE95C6-0553-4DC7-8C78-35CC1BF9B53B}.Debug|Win32.Build.0 = Debug|Win32
+		{5BEE95C6-0553-4DC7-8C78-35CC1BF9B53B}.Release|Win32.ActiveCfg = Release|Win32
+		{5BEE95C6-0553-4DC7-8C78-35CC1BF9B53B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
